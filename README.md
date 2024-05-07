@@ -27,11 +27,17 @@ Scaling Infrastructure: Scale server infrastructure horizontally by adding more 
 
 ## Recent Real-Life Case:
 a) Date of the Attack: June 15, 2023
+
 b) Attacked Organization: XYZ E-Commerce Company
+
 c) Attackers: A hacking group known as "DarkNet Syndicate"
+
 d) Attack Description: The attackers launched a coordinated slow HTTP attack targeting XYZ E-Commerce Company's website.
+
 e) Impact on the Company: The attack caused the website to become unresponsive, resulting in significant downtime and loss of revenue for the company.
+
 f) Preventive Measures: XYZ E-Commerce Company was supposed to implement rate limiting on incoming requests and deploy a WAF to filter out malicious traffic.
+
 g) Prevention and Mitigation: The attack was detected by the company's monitoring systems, which alerted the IT security team. They immediately deployed a WAF to block incoming malicious traffic and scaled up their server infrastructure to handle the increased load. Additionally, they worked with their ISP to implement rate limiting at the network level to mitigate the attack.
 
 ## Security Protocol Evaluation:

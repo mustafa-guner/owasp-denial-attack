@@ -16,8 +16,11 @@ Anomaly Detection: Implement anomaly detection systems that can identify unusual
 **Prevention:**
 
 **1- Web Server Configuration:** Configure web servers to limit the number of simultaneous connections from a single IP address or implement timeouts for idle connections to prevent them from tying up resources indefinitely.
+
 **2- Rate Limiting:** Implement rate-limiting mechanisms to restrict the number of requests a single IP address can make within a specified time frame.
+
 **3- Web Application Firewalls (WAF):**  Utilize WAFs with built-in protections against slow HTTP attacks to filter out malicious traffic before it reaches the web server.
+
 
 **Mitigation:**
 

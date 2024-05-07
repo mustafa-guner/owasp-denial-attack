@@ -26,19 +26,19 @@ Scaling Infrastructure: Scale server infrastructure horizontally by adding more 
 
 
 ## Recent Real-Life Case:
-a) Date of the Attack: June 15, 2023
+**a) Date of the Attack:** June 15, 2023
 
-b) Attacked Organization: XYZ E-Commerce Company
+**b) Attacked Organization:** XYZ E-Commerce Company
 
-c) Attackers: A hacking group known as "DarkNet Syndicate"
+**c) Attackers:** A hacking group known as "DarkNet Syndicate"
 
-d) Attack Description: The attackers launched a coordinated slow HTTP attack targeting XYZ E-Commerce Company's website.
+**d) Attack Description:** The attackers launched a coordinated slow HTTP attack targeting XYZ E-Commerce Company's website.
 
-e) Impact on the Company: The attack caused the website to become unresponsive, resulting in significant downtime and loss of revenue for the company.
+**e) Impact on the Company:** The attack caused the website to become unresponsive, resulting in significant downtime and loss of revenue for the company.
 
-f) Preventive Measures: XYZ E-Commerce Company was supposed to implement rate limiting on incoming requests and deploy a WAF to filter out malicious traffic.
+**f) Preventive Measures:** XYZ E-Commerce Company was supposed to implement rate limiting on incoming requests and deploy a WAF to filter out malicious traffic.
 
-g) Prevention and Mitigation: The attack was detected by the company's monitoring systems, which alerted the IT security team. They immediately deployed a WAF to block incoming malicious traffic and scaled up their server infrastructure to handle the increased load. Additionally, they worked with their ISP to implement rate limiting at the network level to mitigate the attack.
+**g) Prevention and Mitigation:** The attack was detected by the company's monitoring systems, which alerted the IT security team. They immediately deployed a WAF to block incoming malicious traffic and scaled up their server infrastructure to handle the increased load. Additionally, they worked with their ISP to implement rate limiting at the network level to mitigate the attack.
 
 ## Security Protocol Evaluation:
 The security protocol implemented by XYZ E-Commerce Company proved effective in mitigating the slow HTTP attack. However, relying solely on reactive measures may not be sufficient to prevent future attacks. To enhance security, the company should conduct regular security assessments, including penetration testing, to identify and address vulnerabilities proactively. Moreover, continuous monitoring and updates to the security infrastructure are essential to adapt to evolving threats and ensure robust protection against resource exhaustion attacks.
